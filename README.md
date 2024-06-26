@@ -4,4 +4,4 @@ Build Daily Dev Clone using the future by using future-proof technology Laravel 
 
 also explore Reverb for real-time updates. 
 
-If you use this code then forget to give this star ⭐️⭐️
+If you use this code then don't forget to give this star ⭐️⭐️
